@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d40671c-6861-493a-b2f3-f1acd4fa6d55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Class_Templates/Class_Templates.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Class_Templates/Class_Templates.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Class_Templates/Class_Templates.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Class_Templates/Class_Templates.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Class_Templates/Class_Templates.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Class_Templates/Class_Templates/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_I/Classes_I.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_I/Classes_I.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_I/Classes_I.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_I/Classes_I.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_I/Classes_I.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_I/Classes_I/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II/Classes_II.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II/Classes_II.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II/Classes_II.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II/Classes_II.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II/Classes_II.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II/Classes_II/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II_Const_Member_Functions/Classes_II_Const_Member_Functions.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II_Const_Member_Functions/Classes_II_Const_Member_Functions.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II_Const_Member_Functions/Classes_II_Const_Member_Functions.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II_Const_Member_Functions/Classes_II_Const_Member_Functions.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II_Const_Member_Functions/Classes_II_Const_Member_Functions.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Classes_II_Const_Member_Functions/Classes_II_Const_Member_Functions/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Data_Structures/Data_Structures.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Data_Structures/Data_Structures.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Data_Structures/Data_Structures.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Data_Structures/Data_Structures.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Data_Structures/Data_Structures.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Data_Structures/Data_Structures/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Casting/Dynamic_Casting.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Casting/Dynamic_Casting.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Casting/Dynamic_Casting.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Casting/Dynamic_Casting.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Casting/Dynamic_Casting.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Casting/Dynamic_Casting.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Casting/Dynamic_Casting/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Memory/Dynamic_Memory.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Memory/Dynamic_Memory.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Memory/Dynamic_Memory.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Memory/Dynamic_Memory.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Memory/Dynamic_Memory.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Dynamic_Memory/Dynamic_Memory/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Exception/Exception.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Exception/Exception.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Exception/Exception.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Exception/Exception.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Exception/Exception.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Exception/Exception/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance/Friendship&amp;Inheritance_I.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance/Friendship&amp;Inheritance_I.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance/Friendship&amp;Inheritance_I.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance/Friendship&amp;Inheritance_I.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance/Friendship&amp;Inheritance_I.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance/Friendship&amp;Inheritance_I/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance_II/Friendship&amp;Inheritance_II.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance_II/Friendship&amp;Inheritance_II.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance_II/Friendship&amp;Inheritance_II.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance_II/Friendship&amp;Inheritance_II.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance_II/Friendship&amp;Inheritance_II.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Friendship&amp;Inheritance_II/Friendship&amp;Inheritance_II/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Multiple_Inheritance/Multiple_Inheritance.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Multiple_Inheritance/Multiple_Inheritance.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Multiple_Inheritance/Multiple_Inheritance.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Multiple_Inheritance/Multiple_Inheritance.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Multiple_Inheritance/Multiple_Inheritance.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Multiple_Inheritance/Multiple_Inheritance/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Pointers&amp;References/Pointers&amp;References.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Pointers&amp;References/Pointers&amp;References.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Pointers&amp;References/Pointers&amp;References.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Pointers&amp;References/Pointers&amp;References.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Pointers&amp;References/Pointers&amp;References.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Pointers&amp;References/Pointers&amp;References/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism&amp;Dynamic_Allocation/Polymorphism&amp;Dynamic_Allocation.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism&amp;Dynamic_Allocation/Polymorphism&amp;Dynamic_Allocation.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism&amp;Dynamic_Allocation/Polymorphism&amp;Dynamic_Allocation.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism&amp;Dynamic_Allocation/Polymorphism&amp;Dynamic_Allocation.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism&amp;Dynamic_Allocation/Polymorphism&amp;Dynamic_Allocation.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism&amp;Dynamic_Allocation/Polymorphism&amp;Dynamic_Allocation/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_I/Polymorphism_I.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_I/Polymorphism_I.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_I/Polymorphism_I.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_I/Polymorphism_I.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_I/Polymorphism_I.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_I/Polymorphism_I/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_II/Polymorphism_II.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_II/Polymorphism_II.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_II/Polymorphism_II.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_II/Polymorphism_II.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_II/Polymorphism_II.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Polymorphism_II/Polymorphism_II/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Preprocessor_Directives/Preprocessor_Directives.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Preprocessor_Directives/Preprocessor_Directives.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Preprocessor_Directives/Preprocessor_Directives.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Preprocessor_Directives/Preprocessor_Directives.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Preprocessor_Directives/Preprocessor_Directives.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Preprocessor_Directives/Preprocessor_Directives/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Special_Membes/Special_Membes.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Special_Membes/Special_Membes.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Special_Membes/Special_Membes.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Special_Membes/Special_Membes.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Special_Membes/Special_Membes.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Special_Membes/Special_Membes/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Type_Conversions/Type_Conversions.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Type_Conversions/Type_Conversions.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Type_Conversions/Type_Conversions.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Type_Conversions/Type_Conversions.xcodeproj/project.xcworkspace/xcuserdata/juan19.99.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Type_Conversions/Type_Conversions.xcodeproj/xcuserdata/juan19.99.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Abstracts&amp;Programs-C++/Type_Conversions/Type_Conversions/main.cpp" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AStarSearch.py" />
+        <option value="$PROJECT_DIR$/util.py" />
+        <option value="$PROJECT_DIR$/search.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AStarSearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AStarSearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AStarSearch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
